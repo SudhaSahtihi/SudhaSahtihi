@@ -8,7 +8,7 @@
 
 - 👯 I worked on some projects like **handwriting text recognition, cell segmentation of multiple myleoma and predictive customer churn analysis**
 
-- 🤝 i worked as a **Data analyst at cognizant for an year**
+- 🤝 i worked as a **Data analyst at cognizant for over a year**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/SudhaSahithi](https://www.datascienceportfol.io/SudhaSahithi)
 
