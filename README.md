@@ -1,9 +1,8 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sudha Sahithi Murikipudi</h1>
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | SQL, Python, and Tableau Practitioner</h3>
 
-- 🔭 I’m currently working on **building a real world problem with data analysis**
+- 🔭 I’m currently working on **building a solution on real world problem with data analysis**
 
 - 🌱 I’m currently studying **Masters in Data Science**
 
